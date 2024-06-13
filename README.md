@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+  <a href="https://marketplace.visualstudio.com/items?itemName=NaumiK8.theme-milky">
     <img src="https://raw.githubusercontent.com/NaumiK/theme-milky/master/images/milky-logo.png">
   </a>
   <br>
@@ -11,7 +11,8 @@
 <h4 align="center">Milk inside VS code inside VS code...</h4>
 
 ## Screenshots
-![image](images/milky_theme.png)
+<img src="https://raw.githubusercontent.com/NaumiK/theme-milky/master/images/milky_theme.png">
+
 ## Installation
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com)
 ## Licencse
