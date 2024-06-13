@@ -1,0 +1,29 @@
+{
+  "name": "theme-milky",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "1.0.0",
+  "icon": "images/milky-logo.png",
+  "publisher": "NaumiK8",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Milky",
+        "label": "%themeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/milky-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/vscode.git"
+  }
+}
